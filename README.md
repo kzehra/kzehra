@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Khadidzehra Charoliya</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1>💫 About Me:</h1>
+ 
+<ul>
+  <li>🔭 Currently working on: <br>Actively Automating tasks for streamlined software deployment in DevOps</li>
+  <li>🌱 Currently diving into:: <br> Azure Services and strengthening my logic-building skills</li>
+  <li>👯 Open to collaboration on: <br> Fullstack projects</li>
+  <li>⚡ Fun fact: <br> I love turning ideas into reality</li>
+</ul>  
 
-- 🌱 I’m currently learning **Azure**
-
-- 👯 I’m looking to collaborate on **Fullstack projects**
-
-- ⚡ Fun fact **I love bringing ideas to life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
